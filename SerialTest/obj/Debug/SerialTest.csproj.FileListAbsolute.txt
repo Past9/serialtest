@@ -1,0 +1,6 @@
+C:\Users\Past9\Projects\CMLSecurity\SerialTest\SerialTest\bin\Debug\SerialTest.exe.config
+C:\Users\Past9\Projects\CMLSecurity\SerialTest\SerialTest\bin\Debug\SerialTest.exe
+C:\Users\Past9\Projects\CMLSecurity\SerialTest\SerialTest\bin\Debug\SerialTest.pdb
+C:\Users\Past9\Projects\CMLSecurity\SerialTest\SerialTest\obj\Debug\SerialTest.csprojResolveAssemblyReference.cache
+C:\Users\Past9\Projects\CMLSecurity\SerialTest\SerialTest\obj\Debug\SerialTest.exe
+C:\Users\Past9\Projects\CMLSecurity\SerialTest\SerialTest\obj\Debug\SerialTest.pdb
